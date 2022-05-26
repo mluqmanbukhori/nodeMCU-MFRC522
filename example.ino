@@ -64,3 +64,4 @@ void printHex(byte *buffer, byte bufferSize) {
   } 
   Serial.print(cardID);
 }
+
